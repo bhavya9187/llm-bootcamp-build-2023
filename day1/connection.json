@@ -6,6 +6,5 @@
   "warehouse" : "XS_WH",
   "database"  : "DEV_DB",
   "schema"    : "BHAVYA",
-  "compute_pool" : "COMPUTE_POOL_bhavya",
   "huggingface_token": "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"
 }
