@@ -1,11 +1,11 @@
 {
-  "account"   : "RTB37168",
-  "user"      : "USER####",
-  "password"  : "",
-  "role"      : "ROLE_USER####",
-  "warehouse" : "WH_XS_USER####",
-  "database"  : "DB_USER####",
-  "schema"    : "SCHEMA_LLM",
-  "compute_pool" : "COMPUTE_POOL_USER####",
-  "huggingface_token": ""
+  "account"   : " vk23413",
+  "user"      : "bhavya",
+  "password"  : "Snowflake@123",
+  "role"      : "ACCOUNTADMIN",
+  "warehouse" : "XS_WH",
+  "database"  : "DEV_DB",
+  "schema"    : "BHAVYA",
+  "compute_pool" : "COMPUTE_POOL_bhavya",
+  "huggingface_token": "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"
 }
